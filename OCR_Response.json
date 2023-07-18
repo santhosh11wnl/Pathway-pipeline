@@ -1,0 +1,3041 @@
+{
+  "text_annotations": [
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 30,
+            "y": 12
+          },
+          {
+            "x": 922,
+            "y": 12
+          },
+          {
+            "x": 922,
+            "y": 915
+          },
+          {
+            "x": 30,
+            "y": 915
+          }
+        ]
+      },
+      "description": "STATSB\nNU\nSTAT5B\nSTATSA\nNU\nSTAT5A\nILSRA CSF2RB CSF2RB\nJAK2\nILS\nSTAT3\nSTATI\nGSK3A\nGSK3B\nFOXO3A\n03A\nSYK\nJAK1\nBTK\nLYN\nAKT1\nBCL2\nMTOR\nRPS6KA1\nRPS6KB1\nRPS6KB2\nILS\nRPS6\nAKT dependent\ngene expression\nILSRA\nPIK3R1\nPIK3R2\nPIK3CG\nELK1\nPTPN11\nGRB2\nSOS1\nHRAS,\nRAF1\nGTP)\nMAP2K1\nMAP2K2\nMAPK1\nMAPK3\nSHC1\nJUN\nSPRED-1\nRas-MAPK cascade dependent\ngene expression\nFOS\nMYC\nLigand\nProtein,\nPM\nCY\nEC\nEN\nER\nGO\nMT\nNU\nReceptor\nLEGEND\nProtein\nEnzyme complex\nProtein-protein interaction\nLeads to through unknown mechanism\nPositive regulation of gene expression\nNegative regulation of gene expression\nAuto catalysis\nAcetylation\nDeacetylation\nPhosphorylation\nDephosphorylation\nSumoylation\nDesumoylation\nUbiquitination\nDeubiquitination\nMethylation\nDemethylation\nPalmitoylation\nProteolytic cleavage\nInhibition\nTransport\nInduced catalysis\nTranslocation\nmRNA\nPlasma membrane\nCytoplasm\nExtracellular\nEndosome\nEndoplasmic reticulum\nGolgi apparatus\nMitochondrion\nNucleus",
+      "locale": "en"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 32,
+            "y": 521
+          },
+          {
+            "x": 75,
+            "y": 520
+          },
+          {
+            "x": 75,
+            "y": 531
+          },
+          {
+            "x": 32,
+            "y": 532
+          }
+        ]
+      },
+      "description": "STATSB"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 59,
+            "y": 742
+          },
+          {
+            "x": 74,
+            "y": 742
+          },
+          {
+            "x": 74,
+            "y": 750
+          },
+          {
+            "x": 59,
+            "y": 750
+          }
+        ]
+      },
+      "description": "NU"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 30,
+            "y": 811
+          },
+          {
+            "x": 73,
+            "y": 811
+          },
+          {
+            "x": 73,
+            "y": 820
+          },
+          {
+            "x": 30,
+            "y": 820
+          }
+        ]
+      },
+      "description": "STAT5B"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 99,
+            "y": 484
+          },
+          {
+            "x": 143,
+            "y": 484
+          },
+          {
+            "x": 143,
+            "y": 494
+          },
+          {
+            "x": 99,
+            "y": 494
+          }
+        ]
+      },
+      "description": "STATSA"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 128,
+            "y": 742
+          },
+          {
+            "x": 144,
+            "y": 742
+          },
+          {
+            "x": 144,
+            "y": 750
+          },
+          {
+            "x": 128,
+            "y": 750
+          }
+        ]
+      },
+      "description": "NU"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 99,
+            "y": 778
+          },
+          {
+            "x": 144,
+            "y": 778
+          },
+          {
+            "x": 144,
+            "y": 786
+          },
+          {
+            "x": 99,
+            "y": 786
+          }
+        ]
+      },
+      "description": "STAT5A"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 154,
+            "y": 147
+          },
+          {
+            "x": 189,
+            "y": 147
+          },
+          {
+            "x": 189,
+            "y": 156
+          },
+          {
+            "x": 154,
+            "y": 156
+          }
+        ]
+      },
+      "description": "ILSRA"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 219,
+            "y": 147
+          },
+          {
+            "x": 261,
+            "y": 147
+          },
+          {
+            "x": 261,
+            "y": 157
+          },
+          {
+            "x": 219,
+            "y": 157
+          }
+        ]
+      },
+      "description": "CSF2RB"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 288,
+            "y": 148
+          },
+          {
+            "x": 328,
+            "y": 148
+          },
+          {
+            "x": 328,
+            "y": 156
+          },
+          {
+            "x": 288,
+            "y": 156
+          }
+        ]
+      },
+      "description": "CSF2RB"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 155,
+            "y": 277
+          },
+          {
+            "x": 182,
+            "y": 276
+          },
+          {
+            "x": 182,
+            "y": 286
+          },
+          {
+            "x": 155,
+            "y": 287
+          }
+        ]
+      },
+      "description": "JAK2"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 196,
+            "y": 13
+          },
+          {
+            "x": 213,
+            "y": 13
+          },
+          {
+            "x": 213,
+            "y": 21
+          },
+          {
+            "x": 196,
+            "y": 21
+          }
+        ]
+      },
+      "description": "ILS"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 186,
+            "y": 403
+          },
+          {
+            "x": 221,
+            "y": 403
+          },
+          {
+            "x": 221,
+            "y": 412
+          },
+          {
+            "x": 186,
+            "y": 412
+          }
+        ]
+      },
+      "description": "STAT3"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 151,
+            "y": 448
+          },
+          {
+            "x": 187,
+            "y": 448
+          },
+          {
+            "x": 187,
+            "y": 457
+          },
+          {
+            "x": 151,
+            "y": 457
+          }
+        ]
+      },
+      "description": "STATI"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 169,
+            "y": 523
+          },
+          {
+            "x": 206,
+            "y": 523
+          },
+          {
+            "x": 206,
+            "y": 531
+          },
+          {
+            "x": 169,
+            "y": 531
+          }
+        ]
+      },
+      "description": "GSK3A"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 168,
+            "y": 597
+          },
+          {
+            "x": 204,
+            "y": 597
+          },
+          {
+            "x": 204,
+            "y": 605
+          },
+          {
+            "x": 168,
+            "y": 605
+          }
+        ]
+      },
+      "description": "GSK3B"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 171,
+            "y": 688
+          },
+          {
+            "x": 217,
+            "y": 688
+          },
+          {
+            "x": 217,
+            "y": 697
+          },
+          {
+            "x": 171,
+            "y": 697
+          }
+        ]
+      },
+      "description": "FOXO3A"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 194,
+            "y": 687
+          },
+          {
+            "x": 217,
+            "y": 687
+          },
+          {
+            "x": 217,
+            "y": 699
+          },
+          {
+            "x": 194,
+            "y": 699
+          }
+        ]
+      },
+      "description": "03A"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 251,
+            "y": 242
+          },
+          {
+            "x": 273,
+            "y": 242
+          },
+          {
+            "x": 273,
+            "y": 250
+          },
+          {
+            "x": 251,
+            "y": 250
+          }
+        ]
+      },
+      "description": "SYK"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 225,
+            "y": 277
+          },
+          {
+            "x": 252,
+            "y": 277
+          },
+          {
+            "x": 252,
+            "y": 286
+          },
+          {
+            "x": 225,
+            "y": 286
+          }
+        ]
+      },
+      "description": "JAK1"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 280,
+            "y": 306
+          },
+          {
+            "x": 302,
+            "y": 306
+          },
+          {
+            "x": 302,
+            "y": 314
+          },
+          {
+            "x": 280,
+            "y": 314
+          }
+        ]
+      },
+      "description": "BTK"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 315,
+            "y": 243
+          },
+          {
+            "x": 335,
+            "y": 243
+          },
+          {
+            "x": 335,
+            "y": 250
+          },
+          {
+            "x": 315,
+            "y": 250
+          }
+        ]
+      },
+      "description": "LYN"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 289,
+            "y": 474
+          },
+          {
+            "x": 319,
+            "y": 474
+          },
+          {
+            "x": 319,
+            "y": 483
+          },
+          {
+            "x": 289,
+            "y": 483
+          }
+        ]
+      },
+      "description": "AKT1"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 261,
+            "y": 828
+          },
+          {
+            "x": 281,
+            "y": 828
+          },
+          {
+            "x": 281,
+            "y": 835
+          },
+          {
+            "x": 261,
+            "y": 835
+          }
+        ]
+      },
+      "description": "BCL2"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 287,
+            "y": 523
+          },
+          {
+            "x": 320,
+            "y": 523
+          },
+          {
+            "x": 320,
+            "y": 531
+          },
+          {
+            "x": 287,
+            "y": 531
+          }
+        ]
+      },
+      "description": "MTOR"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 279,
+            "y": 588
+          },
+          {
+            "x": 327,
+            "y": 588
+          },
+          {
+            "x": 327,
+            "y": 596
+          },
+          {
+            "x": 279,
+            "y": 596
+          }
+        ]
+      },
+      "description": "RPS6KA1"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 279,
+            "y": 606
+          },
+          {
+            "x": 326,
+            "y": 606
+          },
+          {
+            "x": 326,
+            "y": 614
+          },
+          {
+            "x": 279,
+            "y": 614
+          }
+        ]
+      },
+      "description": "RPS6KB1"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 279,
+            "y": 625
+          },
+          {
+            "x": 327,
+            "y": 625
+          },
+          {
+            "x": 327,
+            "y": 633
+          },
+          {
+            "x": 279,
+            "y": 633
+          }
+        ]
+      },
+      "description": "RPS6KB2"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 334,
+            "y": 12
+          },
+          {
+            "x": 350,
+            "y": 12
+          },
+          {
+            "x": 350,
+            "y": 21
+          },
+          {
+            "x": 334,
+            "y": 21
+          }
+        ]
+      },
+      "description": "ILS"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 289,
+            "y": 680
+          },
+          {
+            "x": 314,
+            "y": 680
+          },
+          {
+            "x": 314,
+            "y": 689
+          },
+          {
+            "x": 289,
+            "y": 689
+          }
+        ]
+      },
+      "description": "RPS6"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 259,
+            "y": 776
+          },
+          {
+            "x": 283,
+            "y": 776
+          },
+          {
+            "x": 283,
+            "y": 788
+          },
+          {
+            "x": 259,
+            "y": 788
+          }
+        ]
+      },
+      "description": "AKT"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 287,
+            "y": 776
+          },
+          {
+            "x": 347,
+            "y": 776
+          },
+          {
+            "x": 347,
+            "y": 788
+          },
+          {
+            "x": 287,
+            "y": 788
+          }
+        ]
+      },
+      "description": "dependent"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 256,
+            "y": 795
+          },
+          {
+            "x": 282,
+            "y": 795
+          },
+          {
+            "x": 282,
+            "y": 807
+          },
+          {
+            "x": 256,
+            "y": 807
+          }
+        ]
+      },
+      "description": "gene"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 286,
+            "y": 795
+          },
+          {
+            "x": 347,
+            "y": 794
+          },
+          {
+            "x": 347,
+            "y": 805
+          },
+          {
+            "x": 286,
+            "y": 806
+          }
+        ]
+      },
+      "description": "expression"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 364,
+            "y": 148
+          },
+          {
+            "x": 395,
+            "y": 148
+          },
+          {
+            "x": 395,
+            "y": 156
+          },
+          {
+            "x": 364,
+            "y": 156
+          }
+        ]
+      },
+      "description": "ILSRA"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 343,
+            "y": 297
+          },
+          {
+            "x": 381,
+            "y": 297
+          },
+          {
+            "x": 381,
+            "y": 306
+          },
+          {
+            "x": 343,
+            "y": 306
+          }
+        ]
+      },
+      "description": "PIK3R1"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 343,
+            "y": 319
+          },
+          {
+            "x": 381,
+            "y": 319
+          },
+          {
+            "x": 381,
+            "y": 328
+          },
+          {
+            "x": 343,
+            "y": 328
+          }
+        ]
+      },
+      "description": "PIK3R2"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 341,
+            "y": 339
+          },
+          {
+            "x": 382,
+            "y": 339
+          },
+          {
+            "x": 382,
+            "y": 348
+          },
+          {
+            "x": 341,
+            "y": 348
+          }
+        ]
+      },
+      "description": "PIK3CG"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 374,
+            "y": 717
+          },
+          {
+            "x": 399,
+            "y": 717
+          },
+          {
+            "x": 399,
+            "y": 725
+          },
+          {
+            "x": 374,
+            "y": 725
+          }
+        ]
+      },
+      "description": "ELK1"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 406,
+            "y": 242
+          },
+          {
+            "x": 450,
+            "y": 243
+          },
+          {
+            "x": 450,
+            "y": 252
+          },
+          {
+            "x": 406,
+            "y": 251
+          }
+        ]
+      },
+      "description": "PTPN11"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 412,
+            "y": 298
+          },
+          {
+            "x": 441,
+            "y": 298
+          },
+          {
+            "x": 441,
+            "y": 306
+          },
+          {
+            "x": 412,
+            "y": 306
+          }
+        ]
+      },
+      "description": "GRB2"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 412,
+            "y": 357
+          },
+          {
+            "x": 440,
+            "y": 357
+          },
+          {
+            "x": 440,
+            "y": 366
+          },
+          {
+            "x": 412,
+            "y": 366
+          }
+        ]
+      },
+      "description": "SOS1"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 413,
+            "y": 410
+          },
+          {
+            "x": 441,
+            "y": 409
+          },
+          {
+            "x": 441,
+            "y": 419
+          },
+          {
+            "x": 413,
+            "y": 420
+          }
+        ]
+      },
+      "description": "HRAS"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 440,
+            "y": 410
+          },
+          {
+            "x": 443,
+            "y": 410
+          },
+          {
+            "x": 443,
+            "y": 419
+          },
+          {
+            "x": 440,
+            "y": 419
+          }
+        ]
+      },
+      "description": ","
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 413,
+            "y": 473
+          },
+          {
+            "x": 440,
+            "y": 473
+          },
+          {
+            "x": 440,
+            "y": 482
+          },
+          {
+            "x": 413,
+            "y": 482
+          }
+        ]
+      },
+      "description": "RAF1"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 443,
+            "y": 420
+          },
+          {
+            "x": 458,
+            "y": 420
+          },
+          {
+            "x": 458,
+            "y": 428
+          },
+          {
+            "x": 443,
+            "y": 428
+          }
+        ]
+      },
+      "description": "GTP"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 459,
+            "y": 420
+          },
+          {
+            "x": 462,
+            "y": 420
+          },
+          {
+            "x": 462,
+            "y": 427
+          },
+          {
+            "x": 459,
+            "y": 427
+          }
+        ]
+      },
+      "description": ")"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 404,
+            "y": 542
+          },
+          {
+            "x": 449,
+            "y": 542
+          },
+          {
+            "x": 449,
+            "y": 553
+          },
+          {
+            "x": 404,
+            "y": 553
+          }
+        ]
+      },
+      "description": "MAP2K1"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 404,
+            "y": 560
+          },
+          {
+            "x": 449,
+            "y": 559
+          },
+          {
+            "x": 449,
+            "y": 570
+          },
+          {
+            "x": 404,
+            "y": 571
+          }
+        ]
+      },
+      "description": "MAP2K2"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 407,
+            "y": 627
+          },
+          {
+            "x": 444,
+            "y": 626
+          },
+          {
+            "x": 444,
+            "y": 635
+          },
+          {
+            "x": 407,
+            "y": 636
+          }
+        ]
+      },
+      "description": "MAPK1"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 409,
+            "y": 646
+          },
+          {
+            "x": 447,
+            "y": 646
+          },
+          {
+            "x": 447,
+            "y": 654
+          },
+          {
+            "x": 409,
+            "y": 654
+          }
+        ]
+      },
+      "description": "MAPK3"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 467,
+            "y": 356
+          },
+          {
+            "x": 495,
+            "y": 356
+          },
+          {
+            "x": 495,
+            "y": 364
+          },
+          {
+            "x": 467,
+            "y": 364
+          }
+        ]
+      },
+      "description": "SHC1"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 463,
+            "y": 714
+          },
+          {
+            "x": 484,
+            "y": 713
+          },
+          {
+            "x": 484,
+            "y": 723
+          },
+          {
+            "x": 463,
+            "y": 724
+          }
+        ]
+      },
+      "description": "JUN"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 494,
+            "y": 474
+          },
+          {
+            "x": 527,
+            "y": 474
+          },
+          {
+            "x": 527,
+            "y": 482
+          },
+          {
+            "x": 494,
+            "y": 482
+          }
+        ]
+      },
+      "description": "SPRED"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 530,
+            "y": 474
+          },
+          {
+            "x": 534,
+            "y": 474
+          },
+          {
+            "x": 534,
+            "y": 482
+          },
+          {
+            "x": 530,
+            "y": 482
+          }
+        ]
+      },
+      "description": "-"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 538,
+            "y": 474
+          },
+          {
+            "x": 542,
+            "y": 474
+          },
+          {
+            "x": 542,
+            "y": 482
+          },
+          {
+            "x": 538,
+            "y": 482
+          }
+        ]
+      },
+      "description": "1"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 348,
+            "y": 820
+          },
+          {
+            "x": 367,
+            "y": 820
+          },
+          {
+            "x": 367,
+            "y": 830
+          },
+          {
+            "x": 348,
+            "y": 830
+          }
+        ]
+      },
+      "description": "Ras"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 368,
+            "y": 820
+          },
+          {
+            "x": 373,
+            "y": 820
+          },
+          {
+            "x": 373,
+            "y": 830
+          },
+          {
+            "x": 368,
+            "y": 830
+          }
+        ]
+      },
+      "description": "-"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 375,
+            "y": 820
+          },
+          {
+            "x": 406,
+            "y": 820
+          },
+          {
+            "x": 406,
+            "y": 830
+          },
+          {
+            "x": 375,
+            "y": 830
+          }
+        ]
+      },
+      "description": "MAPK"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 411,
+            "y": 820
+          },
+          {
+            "x": 455,
+            "y": 820
+          },
+          {
+            "x": 455,
+            "y": 830
+          },
+          {
+            "x": 411,
+            "y": 830
+          }
+        ]
+      },
+      "description": "cascade"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 460,
+            "y": 820
+          },
+          {
+            "x": 519,
+            "y": 820
+          },
+          {
+            "x": 519,
+            "y": 830
+          },
+          {
+            "x": 460,
+            "y": 830
+          }
+        ]
+      },
+      "description": "dependent"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 395,
+            "y": 838
+          },
+          {
+            "x": 421,
+            "y": 838
+          },
+          {
+            "x": 421,
+            "y": 848
+          },
+          {
+            "x": 395,
+            "y": 848
+          }
+        ]
+      },
+      "description": "gene"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 425,
+            "y": 838
+          },
+          {
+            "x": 486,
+            "y": 837
+          },
+          {
+            "x": 486,
+            "y": 846
+          },
+          {
+            "x": 425,
+            "y": 847
+          }
+        ]
+      },
+      "description": "expression"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 401,
+            "y": 866
+          },
+          {
+            "x": 421,
+            "y": 866
+          },
+          {
+            "x": 421,
+            "y": 874
+          },
+          {
+            "x": 401,
+            "y": 874
+          }
+        ]
+      },
+      "description": "FOS"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 461,
+            "y": 867
+          },
+          {
+            "x": 484,
+            "y": 868
+          },
+          {
+            "x": 484,
+            "y": 875
+          },
+          {
+            "x": 461,
+            "y": 874
+          }
+        ]
+      },
+      "description": "MYC"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 622,
+            "y": 279
+          },
+          {
+            "x": 659,
+            "y": 279
+          },
+          {
+            "x": 659,
+            "y": 290
+          },
+          {
+            "x": 622,
+            "y": 290
+          }
+        ]
+      },
+      "description": "Ligand"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 622,
+            "y": 717
+          },
+          {
+            "x": 661,
+            "y": 718
+          },
+          {
+            "x": 661,
+            "y": 727
+          },
+          {
+            "x": 622,
+            "y": 726
+          }
+        ]
+      },
+      "description": "Protein"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 661,
+            "y": 719
+          },
+          {
+            "x": 664,
+            "y": 719
+          },
+          {
+            "x": 664,
+            "y": 727
+          },
+          {
+            "x": 661,
+            "y": 727
+          }
+        ]
+      },
+      "description": ","
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 657,
+            "y": 788
+          },
+          {
+            "x": 672,
+            "y": 788
+          },
+          {
+            "x": 672,
+            "y": 796
+          },
+          {
+            "x": 657,
+            "y": 796
+          }
+        ]
+      },
+      "description": "PM"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 656,
+            "y": 805
+          },
+          {
+            "x": 672,
+            "y": 805
+          },
+          {
+            "x": 672,
+            "y": 813
+          },
+          {
+            "x": 656,
+            "y": 813
+          }
+        ]
+      },
+      "description": "CY"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 658,
+            "y": 824
+          },
+          {
+            "x": 671,
+            "y": 824
+          },
+          {
+            "x": 671,
+            "y": 832
+          },
+          {
+            "x": 658,
+            "y": 832
+          }
+        ]
+      },
+      "description": "EC"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 657,
+            "y": 842
+          },
+          {
+            "x": 671,
+            "y": 842
+          },
+          {
+            "x": 671,
+            "y": 850
+          },
+          {
+            "x": 657,
+            "y": 850
+          }
+        ]
+      },
+      "description": "EN"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 658,
+            "y": 858
+          },
+          {
+            "x": 670,
+            "y": 858
+          },
+          {
+            "x": 670,
+            "y": 866
+          },
+          {
+            "x": 658,
+            "y": 866
+          }
+        ]
+      },
+      "description": "ER"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 655,
+            "y": 873
+          },
+          {
+            "x": 672,
+            "y": 873
+          },
+          {
+            "x": 672,
+            "y": 881
+          },
+          {
+            "x": 655,
+            "y": 881
+          }
+        ]
+      },
+      "description": "GO"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 657,
+            "y": 889
+          },
+          {
+            "x": 673,
+            "y": 889
+          },
+          {
+            "x": 673,
+            "y": 896
+          },
+          {
+            "x": 657,
+            "y": 896
+          }
+        ]
+      },
+      "description": "MT"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 655,
+            "y": 907
+          },
+          {
+            "x": 671,
+            "y": 907
+          },
+          {
+            "x": 671,
+            "y": 915
+          },
+          {
+            "x": 655,
+            "y": 915
+          }
+        ]
+      },
+      "description": "NU"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 684,
+            "y": 322
+          },
+          {
+            "x": 734,
+            "y": 322
+          },
+          {
+            "x": 734,
+            "y": 332
+          },
+          {
+            "x": 684,
+            "y": 332
+          }
+        ]
+      },
+      "description": "Receptor"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 736,
+            "y": 233
+          },
+          {
+            "x": 785,
+            "y": 233
+          },
+          {
+            "x": 785,
+            "y": 243
+          },
+          {
+            "x": 736,
+            "y": 243
+          }
+        ]
+      },
+      "description": "LEGEND"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 763,
+            "y": 282
+          },
+          {
+            "x": 800,
+            "y": 282
+          },
+          {
+            "x": 800,
+            "y": 292
+          },
+          {
+            "x": 763,
+            "y": 292
+          }
+        ]
+      },
+      "description": "Protein"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 770,
+            "y": 319
+          },
+          {
+            "x": 813,
+            "y": 319
+          },
+          {
+            "x": 813,
+            "y": 331
+          },
+          {
+            "x": 770,
+            "y": 331
+          }
+        ]
+      },
+      "description": "Enzyme"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 816,
+            "y": 319
+          },
+          {
+            "x": 864,
+            "y": 319
+          },
+          {
+            "x": 864,
+            "y": 330
+          },
+          {
+            "x": 816,
+            "y": 330
+          }
+        ]
+      },
+      "description": "complex"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 701,
+            "y": 363
+          },
+          {
+            "x": 739,
+            "y": 363
+          },
+          {
+            "x": 739,
+            "y": 373
+          },
+          {
+            "x": 701,
+            "y": 373
+          }
+        ]
+      },
+      "description": "Protein"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 742,
+            "y": 363
+          },
+          {
+            "x": 747,
+            "y": 363
+          },
+          {
+            "x": 747,
+            "y": 373
+          },
+          {
+            "x": 742,
+            "y": 373
+          }
+        ]
+      },
+      "description": "-"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 748,
+            "y": 363
+          },
+          {
+            "x": 787,
+            "y": 363
+          },
+          {
+            "x": 787,
+            "y": 373
+          },
+          {
+            "x": 748,
+            "y": 373
+          }
+        ]
+      },
+      "description": "protein"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 793,
+            "y": 363
+          },
+          {
+            "x": 852,
+            "y": 363
+          },
+          {
+            "x": 852,
+            "y": 373
+          },
+          {
+            "x": 793,
+            "y": 373
+          }
+        ]
+      },
+      "description": "interaction"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 701,
+            "y": 381
+          },
+          {
+            "x": 733,
+            "y": 381
+          },
+          {
+            "x": 733,
+            "y": 391
+          },
+          {
+            "x": 701,
+            "y": 391
+          }
+        ]
+      },
+      "description": "Leads"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 736,
+            "y": 381
+          },
+          {
+            "x": 748,
+            "y": 381
+          },
+          {
+            "x": 748,
+            "y": 391
+          },
+          {
+            "x": 736,
+            "y": 391
+          }
+        ]
+      },
+      "description": "to"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 752,
+            "y": 381
+          },
+          {
+            "x": 796,
+            "y": 381
+          },
+          {
+            "x": 796,
+            "y": 391
+          },
+          {
+            "x": 752,
+            "y": 391
+          }
+        ]
+      },
+      "description": "through"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 801,
+            "y": 381
+          },
+          {
+            "x": 852,
+            "y": 381
+          },
+          {
+            "x": 852,
+            "y": 391
+          },
+          {
+            "x": 801,
+            "y": 391
+          }
+        ]
+      },
+      "description": "unknown"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 858,
+            "y": 381
+          },
+          {
+            "x": 922,
+            "y": 381
+          },
+          {
+            "x": 922,
+            "y": 391
+          },
+          {
+            "x": 858,
+            "y": 391
+          }
+        ]
+      },
+      "description": "mechanism"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 700,
+            "y": 401
+          },
+          {
+            "x": 744,
+            "y": 401
+          },
+          {
+            "x": 744,
+            "y": 411
+          },
+          {
+            "x": 700,
+            "y": 411
+          }
+        ]
+      },
+      "description": "Positive"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 749,
+            "y": 401
+          },
+          {
+            "x": 805,
+            "y": 401
+          },
+          {
+            "x": 805,
+            "y": 411
+          },
+          {
+            "x": 749,
+            "y": 411
+          }
+        ]
+      },
+      "description": "regulation"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 810,
+            "y": 401
+          },
+          {
+            "x": 821,
+            "y": 401
+          },
+          {
+            "x": 821,
+            "y": 411
+          },
+          {
+            "x": 810,
+            "y": 411
+          }
+        ]
+      },
+      "description": "of"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 825,
+            "y": 401
+          },
+          {
+            "x": 851,
+            "y": 401
+          },
+          {
+            "x": 851,
+            "y": 411
+          },
+          {
+            "x": 825,
+            "y": 411
+          }
+        ]
+      },
+      "description": "gene"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 856,
+            "y": 401
+          },
+          {
+            "x": 916,
+            "y": 401
+          },
+          {
+            "x": 916,
+            "y": 411
+          },
+          {
+            "x": 856,
+            "y": 411
+          }
+        ]
+      },
+      "description": "expression"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 699,
+            "y": 420
+          },
+          {
+            "x": 749,
+            "y": 420
+          },
+          {
+            "x": 749,
+            "y": 431
+          },
+          {
+            "x": 699,
+            "y": 431
+          }
+        ]
+      },
+      "description": "Negative"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 754,
+            "y": 420
+          },
+          {
+            "x": 810,
+            "y": 420
+          },
+          {
+            "x": 810,
+            "y": 431
+          },
+          {
+            "x": 754,
+            "y": 431
+          }
+        ]
+      },
+      "description": "regulation"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 815,
+            "y": 420
+          },
+          {
+            "x": 826,
+            "y": 420
+          },
+          {
+            "x": 826,
+            "y": 431
+          },
+          {
+            "x": 815,
+            "y": 431
+          }
+        ]
+      },
+      "description": "of"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 830,
+            "y": 420
+          },
+          {
+            "x": 856,
+            "y": 420
+          },
+          {
+            "x": 856,
+            "y": 431
+          },
+          {
+            "x": 830,
+            "y": 431
+          }
+        ]
+      },
+      "description": "gene"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 861,
+            "y": 420
+          },
+          {
+            "x": 921,
+            "y": 420
+          },
+          {
+            "x": 921,
+            "y": 431
+          },
+          {
+            "x": 861,
+            "y": 431
+          }
+        ]
+      },
+      "description": "expression"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 698,
+            "y": 442
+          },
+          {
+            "x": 725,
+            "y": 442
+          },
+          {
+            "x": 725,
+            "y": 452
+          },
+          {
+            "x": 698,
+            "y": 452
+          }
+        ]
+      },
+      "description": "Auto"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 730,
+            "y": 442
+          },
+          {
+            "x": 779,
+            "y": 442
+          },
+          {
+            "x": 779,
+            "y": 452
+          },
+          {
+            "x": 730,
+            "y": 452
+          }
+        ]
+      },
+      "description": "catalysis"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 700,
+            "y": 460
+          },
+          {
+            "x": 762,
+            "y": 460
+          },
+          {
+            "x": 762,
+            "y": 470
+          },
+          {
+            "x": 700,
+            "y": 470
+          }
+        ]
+      },
+      "description": "Acetylation"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 698,
+            "y": 479
+          },
+          {
+            "x": 772,
+            "y": 478
+          },
+          {
+            "x": 772,
+            "y": 489
+          },
+          {
+            "x": 698,
+            "y": 490
+          }
+        ]
+      },
+      "description": "Deacetylation"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 699,
+            "y": 496
+          },
+          {
+            "x": 789,
+            "y": 496
+          },
+          {
+            "x": 789,
+            "y": 507
+          },
+          {
+            "x": 699,
+            "y": 507
+          }
+        ]
+      },
+      "description": "Phosphorylation"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 698,
+            "y": 514
+          },
+          {
+            "x": 804,
+            "y": 514
+          },
+          {
+            "x": 804,
+            "y": 525
+          },
+          {
+            "x": 698,
+            "y": 525
+          }
+        ]
+      },
+      "description": "Dephosphorylation"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 698,
+            "y": 532
+          },
+          {
+            "x": 766,
+            "y": 532
+          },
+          {
+            "x": 766,
+            "y": 542
+          },
+          {
+            "x": 698,
+            "y": 542
+          }
+        ]
+      },
+      "description": "Sumoylation"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 699,
+            "y": 551
+          },
+          {
+            "x": 783,
+            "y": 551
+          },
+          {
+            "x": 783,
+            "y": 561
+          },
+          {
+            "x": 699,
+            "y": 561
+          }
+        ]
+      },
+      "description": "Desumoylation"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 699,
+            "y": 569
+          },
+          {
+            "x": 778,
+            "y": 569
+          },
+          {
+            "x": 778,
+            "y": 579
+          },
+          {
+            "x": 699,
+            "y": 579
+          }
+        ]
+      },
+      "description": "Ubiquitination"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 698,
+            "y": 587
+          },
+          {
+            "x": 790,
+            "y": 586
+          },
+          {
+            "x": 790,
+            "y": 596
+          },
+          {
+            "x": 698,
+            "y": 597
+          }
+        ]
+      },
+      "description": "Deubiquitination"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 698,
+            "y": 606
+          },
+          {
+            "x": 762,
+            "y": 606
+          },
+          {
+            "x": 762,
+            "y": 617
+          },
+          {
+            "x": 698,
+            "y": 617
+          }
+        ]
+      },
+      "description": "Methylation"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 698,
+            "y": 625
+          },
+          {
+            "x": 777,
+            "y": 625
+          },
+          {
+            "x": 777,
+            "y": 636
+          },
+          {
+            "x": 698,
+            "y": 636
+          }
+        ]
+      },
+      "description": "Demethylation"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 698,
+            "y": 643
+          },
+          {
+            "x": 777,
+            "y": 643
+          },
+          {
+            "x": 777,
+            "y": 653
+          },
+          {
+            "x": 698,
+            "y": 653
+          }
+        ]
+      },
+      "description": "Palmitoylation"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 696,
+            "y": 661
+          },
+          {
+            "x": 756,
+            "y": 661
+          },
+          {
+            "x": 756,
+            "y": 671
+          },
+          {
+            "x": 696,
+            "y": 671
+          }
+        ]
+      },
+      "description": "Proteolytic"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 761,
+            "y": 661
+          },
+          {
+            "x": 809,
+            "y": 661
+          },
+          {
+            "x": 809,
+            "y": 671
+          },
+          {
+            "x": 761,
+            "y": 671
+          }
+        ]
+      },
+      "description": "cleavage"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 697,
+            "y": 677
+          },
+          {
+            "x": 750,
+            "y": 678
+          },
+          {
+            "x": 750,
+            "y": 688
+          },
+          {
+            "x": 697,
+            "y": 687
+          }
+        ]
+      },
+      "description": "Inhibition"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 695,
+            "y": 698
+          },
+          {
+            "x": 752,
+            "y": 698
+          },
+          {
+            "x": 752,
+            "y": 708
+          },
+          {
+            "x": 695,
+            "y": 708
+          }
+        ]
+      },
+      "description": "Transport"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 695,
+            "y": 716
+          },
+          {
+            "x": 740,
+            "y": 716
+          },
+          {
+            "x": 740,
+            "y": 727
+          },
+          {
+            "x": 695,
+            "y": 727
+          }
+        ]
+      },
+      "description": "Induced"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 745,
+            "y": 716
+          },
+          {
+            "x": 793,
+            "y": 716
+          },
+          {
+            "x": 793,
+            "y": 727
+          },
+          {
+            "x": 745,
+            "y": 727
+          }
+        ]
+      },
+      "description": "catalysis"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 698,
+            "y": 753
+          },
+          {
+            "x": 774,
+            "y": 754
+          },
+          {
+            "x": 774,
+            "y": 764
+          },
+          {
+            "x": 698,
+            "y": 763
+          }
+        ]
+      },
+      "description": "Translocation"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 834,
+            "y": 282
+          },
+          {
+            "x": 865,
+            "y": 281
+          },
+          {
+            "x": 865,
+            "y": 290
+          },
+          {
+            "x": 834,
+            "y": 291
+          }
+        ]
+      },
+      "description": "mRNA"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 698,
+            "y": 786
+          },
+          {
+            "x": 739,
+            "y": 786
+          },
+          {
+            "x": 739,
+            "y": 796
+          },
+          {
+            "x": 698,
+            "y": 796
+          }
+        ]
+      },
+      "description": "Plasma"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 742,
+            "y": 786
+          },
+          {
+            "x": 803,
+            "y": 787
+          },
+          {
+            "x": 803,
+            "y": 797
+          },
+          {
+            "x": 742,
+            "y": 796
+          }
+        ]
+      },
+      "description": "membrane"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 697,
+            "y": 804
+          },
+          {
+            "x": 757,
+            "y": 804
+          },
+          {
+            "x": 757,
+            "y": 816
+          },
+          {
+            "x": 697,
+            "y": 816
+          }
+        ]
+      },
+      "description": "Cytoplasm"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 697,
+            "y": 821
+          },
+          {
+            "x": 767,
+            "y": 819
+          },
+          {
+            "x": 767,
+            "y": 830
+          },
+          {
+            "x": 697,
+            "y": 832
+          }
+        ]
+      },
+      "description": "Extracellular"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 699,
+            "y": 841
+          },
+          {
+            "x": 757,
+            "y": 841
+          },
+          {
+            "x": 757,
+            "y": 850
+          },
+          {
+            "x": 699,
+            "y": 850
+          }
+        ]
+      },
+      "description": "Endosome"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 699,
+            "y": 857
+          },
+          {
+            "x": 769,
+            "y": 856
+          },
+          {
+            "x": 769,
+            "y": 867
+          },
+          {
+            "x": 699,
+            "y": 868
+          }
+        ]
+      },
+      "description": "Endoplasmic"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 775,
+            "y": 856
+          },
+          {
+            "x": 826,
+            "y": 856
+          },
+          {
+            "x": 826,
+            "y": 867
+          },
+          {
+            "x": 775,
+            "y": 867
+          }
+        ]
+      },
+      "description": "reticulum"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 698,
+            "y": 873
+          },
+          {
+            "x": 726,
+            "y": 873
+          },
+          {
+            "x": 726,
+            "y": 883
+          },
+          {
+            "x": 698,
+            "y": 883
+          }
+        ]
+      },
+      "description": "Golgi"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 731,
+            "y": 873
+          },
+          {
+            "x": 788,
+            "y": 873
+          },
+          {
+            "x": 788,
+            "y": 883
+          },
+          {
+            "x": 731,
+            "y": 883
+          }
+        ]
+      },
+      "description": "apparatus"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 699,
+            "y": 889
+          },
+          {
+            "x": 779,
+            "y": 889
+          },
+          {
+            "x": 779,
+            "y": 898
+          },
+          {
+            "x": 699,
+            "y": 898
+          }
+        ]
+      },
+      "description": "Mitochondrion"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 699,
+            "y": 907
+          },
+          {
+            "x": 743,
+            "y": 907
+          },
+          {
+            "x": 743,
+            "y": 915
+          },
+          {
+            "x": 699,
+            "y": 915
+          }
+        ]
+      },
+      "description": "Nucleus"
+    }
+  ]
+}
